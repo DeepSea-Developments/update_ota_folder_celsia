@@ -1,0 +1,30 @@
+{
+    "name": "FreeRTOS_ARM", 
+    "keywords": [
+        "rtos"
+    ], 
+    "description": "FreeRTOS for Arduino ARM boards", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/greiman/FreeRTOS-Arduino.git"
+    }, 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "atmelsam"
+    ], 
+    "export": {
+        "include": "libraries/FreeRTOS_ARM"
+    }, 
+    "version": "5d410b29e6", 
+    "authors": [
+        {
+            "email": "fat16lib@sbcglobal.net", 
+            "url": "https://github.com/greiman", 
+            "maintainer": false, 
+            "name": "Bill Greiman"
+        }
+    ], 
+    "id": 324
+}
