@@ -1,0 +1,1 @@
+build_flags = -Wl,-T$PROJECT_DIR/boot_offset_linker.ld
