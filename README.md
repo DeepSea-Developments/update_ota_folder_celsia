@@ -1,12 +1,10 @@
-#OTA BOOTLOADER  
+OTA BOOTLOADER  
 
 This is an implemtentation repository of a custom ota bootloader based on gprs modem xbc-m5-ut-001 (bypass mode>) using the platformIO framework and the hardware macchine m2 for celsia DSD project named ORACULO
 
 
 The repository is also used has storage of the firmwares of each devices.
 Please overwrite the firmware.bin in the specific folder  (HDX148 for example) with the new firmware for that device
-
-OTA BOOTLOADER 
 
 features:
 
